@@ -1,6 +1,9 @@
+Hi, I'm mahmoud gamal but before you go any further let's break the ice with an ol' bad joke
+
+![Jokes Card](https://readme-jokes.vercel.app/api?bgColor=%23111212&hideBorder&qColor=%236aa6f8&aColor=%23ffffff)
+
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=mgama1&show_icons=true&theme=dark&count_private=true&hide=issues,contribs&title_color=6aa6f8&icon_color=6aa6f8)](https://github.com/anuraghazra/github-readme-stats)
-
 
 ![](https://img.shields.io/badge/OS-Linux_|_Windows-informational?style=flat&logo=linux&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Editors-VS_Code_|_PyCharm-informational?style=flat&logo=visual-studio-code&logoColor=white&color=6aa6f8)
