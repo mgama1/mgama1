@@ -1,5 +1,5 @@
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=mgama1&show_icons=true&theme=dark&count_private=true&hide=issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
+[![Stats](https://github-readme-stats.vercel.app/api?username=mgama1&show_icons=true&theme=dark&count_private=true&hide=issues,contribs&title_color=6aa6f8&icon_color=6aa6f8)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ![](https://img.shields.io/badge/OS-Linux_|_Windows-informational?style=flat&logo=linux&logoColor=white&color=6aa6f8)
