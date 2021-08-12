@@ -1,8 +1,6 @@
-<img src="https://im6.ezgif.com/tmp/ezgif-6-038be553972a.gif" alt="spot" width="205" height="235" align="right">
+<img src="https://im6.ezgif.com/tmp/ezgif-6-038be553972a.gif" alt="spot" width="205" height="235" align="left">
 
 
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=wtsn1uts0vqf6m0vrebh2gcpp&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
 
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=mgama1&show_icons=true&theme=dark&count_private=true&hide=issues,contribs&title_color=6aa6f8&icon_color=6aa6f8)](https://github.com/anuraghazra/github-readme-stats)
