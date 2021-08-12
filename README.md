@@ -1,3 +1,5 @@
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=wtsn1uts0vqf6m0vrebh2gcpp&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
+
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=mgama1&show_icons=true&theme=dark&count_private=true&hide=issues,contribs&title_color=6aa6f8&icon_color=6aa6f8)](https://github.com/anuraghazra/github-readme-stats)
 
