@@ -6,7 +6,7 @@
 [![Stats](https://github-readme-stats.vercel.app/api?username=mgama1&show_icons=true&theme=dark&count_private=true&hide=issues,contribs&title_color=6aa6f8&icon_color=6aa6f8)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://img.shields.io/badge/OS-Linux_|_Windows-informational?style=flat&logo=linux&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Editors-VS_Code_|_PyCharm-informational?style=flat&logo=visual-studio-code&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Editors-PyCharm-informational?style=flat&logo=visual-studio-code&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/languages-Python_|_MATLAB-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/ML-scikitlearn-informational?style=flat&logo=PyTorch&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/cv-OpenCV-informational?style=flat&logo=OpenCV&logoColor=white&color=6aa6f8)
