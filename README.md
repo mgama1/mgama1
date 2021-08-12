@@ -1,4 +1,4 @@
-![stretch](https://i1.wp.com/bdtechtalks.com/wp-content/uploads/2021/04/boston-dynamics-stretch-robot.gif?ssl=1)
+![stretch](https://i.imgur.com/cOFTusI.gif)
 
 
 
