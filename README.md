@@ -1,8 +1,6 @@
-![stretch](https://i.imgur.com/cOFTusI.gif)
+<img src="https://im6.ezgif.com/tmp/ezgif-6-038be553972a.gif" alt="spot" width="205" height="235" align="right">
 
 
-
-![imgg](https://miro.medium.com/max/2400/1*u6bfJmbWd6-001erpkJb8w.gif)
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=wtsn1uts0vqf6m0vrebh2gcpp&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
 
