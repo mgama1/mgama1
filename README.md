@@ -1,4 +1,4 @@
-<img src="https://im6.ezgif.com/tmp/ezgif-6-038be553972a.gif" alt="spot" width="205" height="235" align="left">
+<!-- img src="https://im6.ezgif.com/tmp/ezgif-6-038be553972a.gif" alt="spot" width="205" height="235" align="left"> -->
 
 
 
