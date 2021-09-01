@@ -1,9 +1,4 @@
-<!-- img src="https://im6.ezgif.com/tmp/ezgif-6-038be553972a.gif" alt="spot" width="205" height="235" align="left"> -->
 
-
-
-
-[![Stats](https://github-readme-stats.vercel.app/api?username=mgama1&show_icons=true&theme=dark&count_private=true&hide=issues,contribs&title_color=6aa6f8&icon_color=6aa6f8)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://img.shields.io/badge/OS-Linux_|_Windows-informational?style=flat&logo=linux&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Editors-PyCharm-informational?style=flat&logo=visual-studio-code&logoColor=white&color=6aa6f8)
