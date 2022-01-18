@@ -7,5 +7,5 @@
 ![](https://img.shields.io/badge/visualization-Matplotlib_|_Seaborn-informational?style=flat&logo=Simple-Analytics&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Version_control-git-informational?style=flat&logo=Git&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Testing-Pytest-informational?style=flat&logo=Pytest&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/MCU-Arduino-informational?style=flat&logo=Arduino&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/MCU-AVR-informational?style=flat&logo=Arduino&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/other-LaTeX-informational?style=flat&logo=LaTeX&logoColor=white&color=6aa6f8)
