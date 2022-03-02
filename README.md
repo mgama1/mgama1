@@ -1,6 +1,6 @@
 <img src="https://i.imgur.com/kfSmfPt.gif" width="206" height="235" style="float:left"  > </img>
 ![](https://img.shields.io/badge/OS-Linux_|_Windows-informational?style=flat&logo=linux&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Editors-PyCharm_|_spyder_|_jupyter-informational?style=flat&logo=visual-studio-code&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Editors-PyCharm_|VScode|_jupyter-informational?style=flat&logo=visual-studio-code&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/languages-Python_|_C_|_MATLAB-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/ML-scikitlearn-informational?style=flat&logo=PyTorch&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/cv-OpenCV-informational?style=flat&logo=OpenCV&logoColor=white&color=6aa6f8)
